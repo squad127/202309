@@ -1,0 +1,193 @@
+.header {
+
+}
+
+.body {
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+}
+
+.titlebox {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.link1 {
+    text-align: center;
+}
+
+.button1 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link1 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+
+.link2 {
+    text-align: center;
+}
+
+.button2 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link2 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+
+.link3 {
+    text-align: center;
+}
+
+.button3 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link3 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+.link4 {
+    text-align: center;
+}
+
+.button4 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link4 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+.link5 {
+    text-align: center;
+}
+
+.button5 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link5 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+
+.link6 {
+    text-align: center;
+}
+
+.button6 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link6 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+
+.link7 {
+    text-align: center;
+}
+
+.button7 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link7 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
+
+
+
+.link8 {
+    text-align: center;
+}
+
+.button8 {
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+
+#link8 {
+    color: white;
+    font-size: 15px;
+    text-decoration-line: none;
+}
